@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Server live.....
+          ReactApp is live
         </a>
       </header>
     </div>
